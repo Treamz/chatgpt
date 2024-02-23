@@ -1,0 +1,1 @@
+ /Users/ivancernokniznikov/appwrite/geminiai/.dart_tool/flutter_build/0cce71215cd3e3bf1933c92949520b4b/native_assets.yaml: 

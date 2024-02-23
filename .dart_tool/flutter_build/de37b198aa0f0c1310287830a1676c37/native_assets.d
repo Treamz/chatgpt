@@ -1,0 +1,1 @@
+ /Users/ivancernokniznikov/appwrite/chatgpt/.dart_tool/flutter_build/de37b198aa0f0c1310287830a1676c37/native_assets.yaml: 
